@@ -10,7 +10,7 @@
 
 > <h2>Imagem do Projeto</h2>
 <div align="center">
-  <img src="image.png" alt="imagem" width="900">
+  <img src="image.png" alt="imagem" width="1000">
 </div>
 
 > <h2>O que irá aprender</h2>

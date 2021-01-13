@@ -38,12 +38,6 @@
  * NodeJS
  * Visual Studio Code
  
- > <h2>Como executar</h2>
- ```bash
- # Acesse o Terminal do vscode na pasta onde se encontra o arquivo palindromo.js e execute o comando abaixo :
- $ node palindromo.js 
- ```
-
  > <h2>Como utilizar o projeto</h2>
 
  ```bash

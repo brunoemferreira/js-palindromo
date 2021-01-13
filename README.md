@@ -1,7 +1,6 @@
 <h1>Palíndromo ( JavaScript ) </h1>
 
 <div align="center">
-   ![GitHub repo size](https://img.shields.io/github/repo-size/brunoemferreira/js-palindromo)
    <img src="https://img.shields.io/github/repo-size/brunoemferreira/js-palindromo" alt="badge"/>
 </div>
 

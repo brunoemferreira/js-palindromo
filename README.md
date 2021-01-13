@@ -12,16 +12,34 @@
 
 * 
   **  
-* Utilizar o método reverse()
-  ** O método reverse() inverte os itens de um array. O primeiro elemento do array se torna o último e o último torna-se o primeiro.
-* Utilizar o método join()
+* 
+  ** 
+* 
   ** O método join() junta todos os elementos de um array (ou um array-like object) em uma string e retorna esta string.
 
 
-<ul>
-  <li>Utilizar o método split()</li>
-<ul>
-  <li>O método split() divide uma String em uma lista ordenada de substrings, coloca essas substrings em um array e retorna o array. A divisão é feita procurando um padrão, onde o       padrão é fornecido como o primeiro parâmetro na chamada do método.
-  </li>
-</ul>
+
+ 
+ 
+ 
+ <ol>
+<li>Utilizar o método split()
+<ol>
+<li>O método split() divide uma String em uma lista ordenada de substrings, coloca essas substrings em um array e retorna o array. A divisão é feita procurando um padrão, onde o       padrão é fornecido como o primeiro parâmetro na chamada do método.</li>
+</ol>
+</li>
+<li>Utilizar o método reverse()</li>
+<li>O método reverse() inverte os itens de um array. O primeiro elemento do array se torna o último e o último torna-se o primeiro.
+<ol>
+<li>Primeiro subitem de contato</li>
+<li>Segundo subitem de contato </li>
+</ol>
+</li>
+<li>Links</li><ol>
+<li>Primeiro subitem de contato</li>
+<li>Segundo subitem de contato </li>
+</ol>
+</ol>
+ 
+ 
 

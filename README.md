@@ -9,8 +9,9 @@
 <p>Código desenvolvido em Javascript para verificar se uma palavra ou frase é um palíndromo. O Algoritmo compara a palavra ou frase informada com a mesma frase ou palavra depois de passada pelos métodos split('').reverse().join('') que resulta no valor que deve ser igual ao da palavra ou frase original informada, sendo identificada a igualdade temos um palíndromo caso contrário o retorno de uma mensagem de aviso dizendo que a palavra ou frase informada não é um palíndromo.</p>
 
 > <h2>Imagem do Projeto</h2>
-
-<img align="center" src="image.png" alt="imagem" width="700">
+<div align="center">
+  <img src="image.png" alt="imagem" width="900">
+</div>
 
 > <h2>O que irá aprender</h2>
 

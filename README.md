@@ -49,16 +49,14 @@
  # Acesse o Terminal do vscode na pasta onde se encontra o arquivo palindromo.js e execute o comando abaixo :
  $ node palindromo.js 
  ```
-    
-   
-   
 
-   
- 
- 
- 
- 
- 
- 
- 
+ > <h2>Como utilizar o projeto</h2>
 
+ ```bash
+# Clone este repositório
+$ git clone https://github.com/brunoemferreira/js-palindromo.git
+ 
+# execute o comando
+$ node palindromo.js 
+ 
+ ```

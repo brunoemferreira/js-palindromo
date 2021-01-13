@@ -1,5 +1,9 @@
 <h1>Palíndromo ( JavaScript ) </h1>
 
+<div align="center">
+   ![GitHub repo size](https://img.shields.io/github/repo-size/brunoemferreira/js-palindromo)
+</div>
+
 > <h2>O que é um Palíndromo ?</h2>
 
 <p>Um palíndromo é uma palavra, frase ou qualquer outra sequência de unidades que tenha a propriedade de poder ser lida tanto da direita para a esquerda como da esquerda para a direita.</p>

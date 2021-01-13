@@ -2,6 +2,7 @@
 
 <div align="center">
    ![GitHub repo size](https://img.shields.io/github/repo-size/brunoemferreira/js-palindromo)
+   <img src="https://img.shields.io/github/repo-size/brunoemferreira/js-palindromo" alt="badge"/>
 </div>
 
 > <h2>O que é um Palíndromo ?</h2>

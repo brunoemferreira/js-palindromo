@@ -19,10 +19,8 @@
 
 
 <ul>
-<li>Utilizar o método split()
+  <li>Utilizar o método split()
 <ul>
-<li>O método split() divide uma String em uma lista ordenada de substrings, coloca essas substrings em um array e retorna o array. A divisão é feita procurando um padrão, onde o padrão é fornecido como o primeiro parâmetro na chamada do método.</li>
-<li>Segundo subitem de serviços</li>
-<li>Terceiro subitem de serviços</li>
+  <li>O método split() divide uma String em uma lista ordenada de substrings, coloca essas substrings em um array e retorna o array. A divisão é feita procurando um padrão, onde o       padrão é fornecido como o primeiro parâmetro na chamada do método.</li>
 </ul>
 </li>

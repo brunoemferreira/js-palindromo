@@ -2,6 +2,9 @@
 
 <div align="center">
    <img src="https://img.shields.io/github/repo-size/brunoemferreira/js-palindromo" alt="badge"/>
+   <img src="https://img.shields.io/tokei/lines/github/brunoemferreira/js-palindromo?color=green" alt="badge"/>
+   
+   
 </div>
 
 > <h2>O que é um Palíndromo ?</h2>

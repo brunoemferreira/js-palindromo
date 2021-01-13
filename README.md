@@ -33,6 +33,12 @@
    </li>
  </ul>
  
+ > <h2>Como baixar o projeto</h2>
+  ```bash
+ # Clone o repositório 
+ $ git clone
+ ```
+ 
  > <h2>Ferramentas para execução</h2>
  
  * NodeJS

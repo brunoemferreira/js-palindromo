@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="logo.png" alt="logo" width="1000">
+</div>
+
+</br>
+
 <h1>Palíndromo ( JavaScript ) </h1>
 
 <div align="center">

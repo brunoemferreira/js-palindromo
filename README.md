@@ -61,6 +61,11 @@
  ```bash
 # Clone este repositório
 $ git clone https://github.com/brunoemferreira/js-palindromo.git
+
+# Instale as Bibliotecas
+$ yarn install 
+ou 
+$ npm install
  
 # execute o comando
 $ node palindromo.js 
